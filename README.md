@@ -5,6 +5,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/SimplyDebloat/NoMoreEdge?style=for-the-badge&color=21262d)](https://github.com/SimplyDebloat/NoMoreEdge)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&color=21262d)](https://github.com/SimplyDebloat/NoMoreEdge)
+</div>
 
 ---
 
