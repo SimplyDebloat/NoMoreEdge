@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗑️ NoMoreEdge
+# NoMoreEdge
 *"just delete that bloat."*
 
 [![GitHub Stars](https://img.shields.io/github/stars/SimplyDebloat/NoMoreEdge?style=for-the-badge&color=21262d)](https://github.com/SimplyDebloat/NoMoreEdge)
@@ -8,20 +8,13 @@
 
 ---
 
-### 🚀 Quick Start
-Just Download, Run, and Done.
+### Quick Start
+No complex setup. No headache. Just clean.
 
 1. **Download** the `.bat` file
 2. **Run** the script
 3. **Done** — Simple as that.
-
----
-
-### 🛠️ Key Features
-**Too Easy** • literally just run and you're done.
-**Deep Clean** • Clears registry keys and background services, *also takes like 3 seconds max to delete edge*
-**Safe Removal** • Uses official uninstaller logic to prevent OS corruption.
-
+4. 
 </div>
 
 > [!IMPORTANT]
