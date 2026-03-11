@@ -1,5 +1,3 @@
-NoMoreEdge,
-just delete that bloat pls 
 How to use:
 
 1. Simply download the .bat file
