@@ -10,7 +10,7 @@
 ---
 
 <div align="left">
-### Quick Start
+# Quick Start
 No complex setup. No headache. Just clean.
 
 1. **Download** the `.bat` file
