@@ -8,13 +8,13 @@
 
 ---
 
+<div align="left">
 ### Quick Start
 No complex setup. No headache. Just clean.
 
 1. **Download** the `.bat` file
 2. **Run** the script
 3. **Done** — Simple as that.
-4. 
 </div>
 
 > [!IMPORTANT]
